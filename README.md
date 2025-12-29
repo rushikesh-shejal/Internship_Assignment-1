@@ -1,1 +1,1 @@
-# Internship_Assignment-1
+This Repository for Internship Assignments 
